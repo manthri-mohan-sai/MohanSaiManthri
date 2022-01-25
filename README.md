@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohanSaiManthri
-- 👀 I’m interested in Flutter & Python.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Flutter & Spring.
+- 🌱 I’m currently learning Spring (JAVA)
 - 💞️ I’m looking to collaborate on Flutter projects.
 - 📫 How to reach me 
   - LinkedIn: [Mohan Sai Manthri](<https://www.linkedin.com/in/mohan-sai-manthri-63b49584/>)
